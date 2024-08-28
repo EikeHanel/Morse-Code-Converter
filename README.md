@@ -45,14 +45,6 @@ cd morse-code-converter
   <pre><code>python morse_converter.py</code></pre>
 </ol>
 
-<h2>To-Do</h2>
-
-<ul>
-  <li>Implement additional features such as converting Morse code back to text.</li>
-  <li>Enhance error handling for non-alphabetic characters.</li>
-  <li>Add support for numbers and punctuation.</li>
-</ul>
-
 <h2>Contributing</h2>
 
 <p>Feel free to fork this repository and submit pull requests. All contributions are welcome!</p>
